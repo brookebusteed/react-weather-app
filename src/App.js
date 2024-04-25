@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        Weather App
         <Weather />
         <footer>
           This project was coded by{" "}
@@ -15,7 +14,7 @@ function App() {
           >
             Brooke Busteed{" "}
           </a>{" "}
-          and is
+          and is{" "}
           <a
             href="https://github.com/brookebusteed/react-weather-app"
             target="_blank"
