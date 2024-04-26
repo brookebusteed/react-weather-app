@@ -9,7 +9,7 @@ function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.linkedin.com/in/brooke-busteed-63046a15a?originalSubdomain=au"
+            href="https://github.com/brookebusteed"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -25,7 +25,8 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://imaginative-belekoy-916806.netlify.app/"
+            href="https://react-weather-app-bb.netlify.app"
+            target="_blank"
             rel="noopener noreferrer"
           >
             {" "}
