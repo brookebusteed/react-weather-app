@@ -11,6 +11,7 @@ function App() {
           <a
             href="https://www.linkedin.com/in/brooke-busteed-63046a15a?originalSubdomain=au"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Brooke Busteed{" "}
           </a>{" "}
@@ -18,11 +19,15 @@ function App() {
           <a
             href="https://github.com/brookebusteed/react-weather-app"
             target="_blank"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub{" "}
           </a>{" "}
           and{" "}
-          <a href="https://imaginative-belekoy-916806.netlify.app/">
+          <a
+            href="https://imaginative-belekoy-916806.netlify.app/"
+            rel="noopener noreferrer"
+          >
             {" "}
             hosted on Netlify{" "}
           </a>
