@@ -20,6 +20,11 @@ function App() {
             target="_blank"
           >
             open-sourced on GitHub{" "}
+          </a>{" "}
+          and{" "}
+          <a href="https://imaginative-belekoy-916806.netlify.app/">
+            {" "}
+            hosted on Netlify{" "}
           </a>
         </footer>
       </div>
